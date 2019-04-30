@@ -1,6 +1,6 @@
 ## What does it do?
 
-A react starter project using parcel. 
+A simple react starter project using parcel. 
 
 Featuring
 - ReactJS
@@ -11,8 +11,6 @@ Featuring
 - Parcel dev environment
 
 ## Install
-
-Clone repo then
 
     $ yarn install
 
