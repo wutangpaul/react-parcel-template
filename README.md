@@ -16,8 +16,8 @@ Clone repo then
 
     $ yarn install
 
-## Running
+## Run
     $ yarn dev
 
-## Building 
-    $yarn build
+## Build
+    $ yarn build
