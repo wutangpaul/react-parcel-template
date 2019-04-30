@@ -11,11 +11,11 @@ Featuring
 - Parcel dev environment
 
 ## Requirements
-- ParcelJS - https://parceljs.org/
-- NodeJS 10+ - https://nodejs.org/
+- NodeJS (https://nodejs.org/)
+- Yarn (https://yarnpkg.com/en/)
+- Parcel (https://parceljs.org/)
 
 ## Install
-
     $ yarn install
 
 ## Run
