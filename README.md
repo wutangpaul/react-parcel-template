@@ -4,7 +4,8 @@ A react starter project using parcel.
 
 ## Installation
 
-Clone repo then:
+Clone repo then
+
     $ yarn install
 
 ## Running
