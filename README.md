@@ -10,6 +10,10 @@ Featuring
 - SASS
 - Parcel dev environment
 
+## Requirements
+- ParcelJS - https://parceljs.org/
+- NodeJS 10+ - https://nodejs.org/
+
 ## Install
 
     $ yarn install
