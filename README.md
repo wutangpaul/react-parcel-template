@@ -1,8 +1,9 @@
 ## What does it do?
 
-A simple react starter project using parcel. 
+A simple react starter project using parcel.
 
 Featuring
+
 - ReactJS
 - react-router
 - Babel
@@ -11,15 +12,18 @@ Featuring
 - Parcel dev environment
 
 ## Requirements
+
 - NodeJS (https://nodejs.org/)
-- Yarn (https://yarnpkg.com/en/)
 - Parcel (https://parceljs.org/)
 
 ## Install
-    $ yarn install
+
+    $ npm install
 
 ## Run
-    $ yarn dev
+
+    $ npm run dev
 
 ## Build
-    $ yarn build
+
+    $ npm run build

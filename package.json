@@ -25,7 +25,7 @@
     "eslint-config-prettier": "^4.2.0",
     "eslint-plugin-import": "^2.17.2",
     "eslint-plugin-react": "^7.12.4",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.4.2",
     "parcel-bundler": "^1.12.3"
   }
 }
