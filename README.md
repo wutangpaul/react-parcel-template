@@ -9,12 +9,12 @@ Featuring
 - Babel
 - ESlint (Airbnb)
 - SASS
-- Parcel dev environment
+- Parcel dev server & build system
+- Cypress integration test
 
 ## Requirements
 
 - NodeJS (https://nodejs.org/)
-- Parcel (https://parceljs.org/)
 
 ## Install
 
