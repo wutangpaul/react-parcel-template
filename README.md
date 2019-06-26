@@ -20,7 +20,11 @@ Featuring
 
     $ npm install
 
-## Run
+## Run integration tests
+
+    $ npm test:cypress
+
+## Run dev environment
 
     $ npm run dev
 
